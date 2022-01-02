@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thanks+you+for+visiting+🔰" alt="hi"/> </h1>
 <p align="center">
-  <img src="https://">
+  <img src="https://www.wallpapertip.com/wmimgs/174-1741670_anime-gif-wallpaper-hd.jpg">
 
 <h1 align="center"> follow me
   <p align="center">
