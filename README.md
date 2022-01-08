@@ -14,5 +14,5 @@
     
 ### GITHUB STATS
     
-<p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight"></a></p>
+<p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact"></a></p> 
