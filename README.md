@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&width=350&lines=《+Thanks+you+for+visiting+》" alt="hi"/> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&width=350&lines=《+Thanks+for+visiting+me+》" alt="hi"/> </h1>
 <p align="center">
   <img src="https://www.wallpapertip.com/wmimgs/174-1741670_anime-gif-wallpaper-hd.jpg">
 
