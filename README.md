@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thanks+you+for+visiting+🔰" alt="hi"/> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&width=300&lines=Thanks+you+for+visiting" alt="hi"/> </h1>
 <p align="center">
   <img src="https://www.wallpapertip.com/wmimgs/174-1741670_anime-gif-wallpaper-hd.jpg">
 
@@ -16,3 +16,4 @@
     
 <p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight"></a></p>
 <p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=RIKASHIKI&theme=tokyonight&layout=compact"></a></p>
