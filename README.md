@@ -1,8 +1,8 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&width=300&lines=Thanks+you+for+visiting" alt="hi"/> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&width=350&lines=《+Thanks+you+for+visiting+》" alt="hi"/> </h1>
 <p align="center">
   <img src="https://www.wallpapertip.com/wmimgs/174-1741670_anime-gif-wallpaper-hd.jpg">
 
- <h3 align="center"> FOLLOW ME
+ <h3 align="center"> 『 FOLLOW ME 』
 
   <p align="center">
   <a href="https://www.instagram.com/@rks_1542"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -14,7 +14,7 @@
   <a href="https://github.com/RIKASHIKI"><img src="https://img.shields.io/badge/-GitHub-black?style=badge&logo=github" /> 
 </p>
     
-### <h3 align="center"> GITHUB STATS
+### <h3 align="center"> 『 GITHUB STATS 』
     
 <p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight"></a></p>
 <p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact"></a></p> 
