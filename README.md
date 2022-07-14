@@ -10,8 +10,7 @@
   <a href="https://www.facebook.com/hari.amd.1"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/@d_e020"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> 
   <a href="https://discord.gg/mq9BvQPxCk"><img src="https://img.shields.io/badge/-DISCORD-9cf?style=for-the-badge&logo=discord&logoColor=blue" /> <br>
-  <a href="https://youtube.com/channel/UCuBF841jyS1sPOF2NveOoJg"><img src="https://img.shields.io/badge/YOUTUBE-RIKASHIKI-red?style=for-the-badge&logo=YouTube&logoColor=red" /> <br>
-  <a href="https://github.com/RIKASHIKI"><img src="https://img.shields.io/badge/-GitHub-black?style=badge&logo=github" /> 
+  <a href="https://youtube.com/channel/UCuBF841jyS1sPOF2NveOoJg"><img src="https://img.shields.io/badge/YOUTUBE-RIKASHIKI-red?style=for-the-badge&logo=YouTube&logoColor=red" />
 </p>
     
 ### <h3 align="center"> 『 GITHUB STATS 』
