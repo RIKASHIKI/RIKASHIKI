@@ -1,11 +1,11 @@
+hello my name RIKASHIKI 
+
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&width=350&lines=《+Thanks+for+visiting+me+》" alt="hi"/> </h1>
 <p align="center">
   <img src="https://www.wallpapertip.com/wmimgs/174-1741670_anime-gif-wallpaper-hd.jpg">
 
- <h3 align="center"> 『 BIO 』
 
-
- <h3 align="center"> 『 FOLLOW ME 』
+### <h3 align="center"> 『 FOLLOW ME IN 』
 
   <p align="center">
   <a href="https://www.instagram.com/@rks_1542"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
