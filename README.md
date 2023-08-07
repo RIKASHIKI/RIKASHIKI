@@ -9,7 +9,7 @@
   <img src="https://www.wallpapertip.com/wmimgs/174-1741670_anime-gif-wallpaper-hd.jpg">
 
 
-### <h3 align="center"> 『 FOLLOW ME IN 』
+### <h3 align="center">『 FOLLOW ME IN 』
 
   <p align="center">
   <a href="https://www.instagram.com/@rks_1542"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -20,7 +20,7 @@
   <a href="https://youtube.com/channel/UCuBF841jyS1sPOF2NveOoJg"><img src="https://img.shields.io/badge/YOUTUBE-RIKASHIKI-red?style=for-the-badge&logo=YouTube&logoColor=red" />
 </p>
     
-### <h3 align="center"> 『 GITHUB STATS 』
+### <h3 align="center">『 GITHUB STATS 』
     
 <p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight"></a></p>
 <p align="center"><a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact"></a></p> 
