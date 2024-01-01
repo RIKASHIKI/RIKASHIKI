@@ -6,9 +6,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&width=350&lines=Thanks+for+visiting+me"/>
-  <img src="https://www.wallpapertip.com/wmimgs/174-1741670_anime-gif-wallpaper-hd.jpg">
+  https://github.com/RIKASHIKI/RIKASHIKI/assets/78960095/f8ee9f34-e224-4f8b-af24-a0fb69dd1f20
+  <vid src="https://github.com/RIKASHIKI/RIKASHIKI/assets/78960095/f8ee9f34-e224-4f8b-af24-a0fb69dd1f20"/>
 </p>
-
+https://github.com/RIKASHIKI/RIKASHIKI/assets/78960095/f8ee9f34-e224-4f8b-af24-a0fb69dd1f20
 ### <h3 align="center">『 FOLLOW ME IN 』
 
   <p align="center">
