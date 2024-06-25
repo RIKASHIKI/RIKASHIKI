@@ -1,6 +1,6 @@
 ## <h3 align="center"> BIO
-* my name Rikashiki or you can call me Hari Amd
-* I live in South alimantan
+* my name hari amd or you can call me rikashiki
+* I live in South Kalimantan
 * now i'm in college
 
 
