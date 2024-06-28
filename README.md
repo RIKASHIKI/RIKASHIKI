@@ -7,10 +7,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&width=350&lines=Thanks+for+visiting+me"/>
-  
-
-
 </p>
+
+
+
 <h3 align="center">『 FOLLOW ME IN 』</h3>
 
 <p align="center">
