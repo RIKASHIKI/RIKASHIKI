@@ -30,9 +30,8 @@
 ### 📈 Statistik GitHub
 
 <p align="center">
-  <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact&hide_title=true"></a>
-  <br/>
-  <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight&hide_title=true"></a>
+  <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight&hide_title=true&layout=compact"/></a>
+  <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact&hide_title=true"/></a>
 </p>
 
 ---
