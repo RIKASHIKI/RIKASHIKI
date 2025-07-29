@@ -30,6 +30,7 @@
 ### 📈 Statistik GitHub
 
 <p align="center">
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RIKASHIKI)](https://github.com/RIKASHIKI/github-readme-stats)
   <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact&hide_title=true"></a>
   <br/>
   <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight&hide_title=true"></a>
