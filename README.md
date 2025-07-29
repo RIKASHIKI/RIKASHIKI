@@ -23,8 +23,9 @@
 </p>
     
  <h3 align="center">『 GITHUB STATS 』</h3>
-
+<div>
 <p align="center">
   <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIKASHIKI&theme=tokyonight&layout=compact"></a><br>
   <a href="https://github.com/RIKASHIKI"><img src="https://github-readme-stats.vercel.app/api?username=RIKASHIKI&show_icons=true&theme=tokyonight"></a>
 </p> 
+</div>
