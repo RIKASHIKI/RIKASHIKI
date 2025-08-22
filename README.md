@@ -17,7 +17,7 @@
 ## 🛠️ Keahlian & Teknologi
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,js,php,mysql,python,c,arduino,nodejs,androidstudio,bootstrap,laravel,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,js,php,mysql,python,c,arduino,nodejs,androidstudio,bootstrap,laravel,npm,cpp" />
 </p>
 
 ---
